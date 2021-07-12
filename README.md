@@ -1,7 +1,8 @@
 <div align=center>
-  <h3>✨ I'm a ..</h3>
-   HarDwOrkIng dEveLopEr<br>
-   Studying <i>Multimedia Engineering</i> in DGU
+  <h3>✨ I'm ... </h3>
+  ✔️ A hArDwoRkIng dEveLopER<br>
+  ✔️ Studying <i>Multimedia Engineering</i> in Dongguk Univ.
+  
 <!--
 **miiinnn23/miiinnn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
