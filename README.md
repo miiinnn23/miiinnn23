@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
   <p>
   <h3>💕 CONTACT</h3>
+  <a target="_blank" href="https://miiinnn23.tistory.com/"><img src="https://img.shields.io/badge/Blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
   <a href="mailto:msan533.1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a target="_blank" href="https://www.linkedin.com/in/lee-min-898908199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   </p>
