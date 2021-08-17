@@ -2,6 +2,8 @@
   <h3>✨ I'm ... </h3>
   ✔️ A hArDwoRkIng dEveLopER<br>
   ✔️ Studying <i>Multimedia Engineering</i> in Dongguk Univ. <br>
+  ✔️ Interested in <img src="https://img.shields.io/badge/iOS-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GAME-000000?style=flat-square&logo=unity&logoColor=white"/><br>
   
 <!--
 **miiinnn23/miiinnn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
