@@ -1,7 +1,6 @@
 <div align=center>
   <h3>✨ I'm ... </h3>
   ✔️ A hArDwoRkIng dEveLopER<br>
-  ✔️ Studying <i>Multimedia Engineering</i> in Dongguk Univ. <br>
   ✔️ Undergraduate Student in BigDataLab. <br>
   ✔️ Interested in <img src="https://img.shields.io/badge/iOS-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/GAME-000000?style=flat-square&logo=unity&logoColor=white"/><br>
