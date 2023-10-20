@@ -1,9 +1,8 @@
 <div align=center>
   <h3>✨ I'm ... </h3>
   ✔️ A hArDwoRkIng dEveLopER<br>
-  ✔️ Master Course in BigDataLab. <br>
-  ✔️ Interested in <img src="https://img.shields.io/badge/iOS-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GAME-000000?style=flat-square&logo=unity&logoColor=white"/><br>
+  ✔️ Master Course in DataLab. <br>
+  ✔️ Interested in ML, clustering <br>
   
 <!--
 **miiinnn23/miiinnn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,24 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-  <h3>🛠 STACK</h3>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=Javascript&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-  
-</p>
-
   <p>
   <h3>💕 CONTACT</h3>
-  <a href="mailto:msan533.1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:seungmin@mme.dongguk.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a target="_blank" href="https://www.linkedin.com/in/lee-min-898908199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   </p>
 
