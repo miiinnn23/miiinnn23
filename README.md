@@ -1,7 +1,7 @@
 <div align=center>
   <h3>✨ I'm ... </h3>
   ✔️ A hArDwoRkIng dEveLopER<br>
-  ✔️ Master Course in DataLab. <br>
+  ✔️ Master Course in <a href="https://datalab.dongguk.edu">DataLab</a>. <br>
   ✔️ Interested in ML, clustering, data science <br>
   
 <!--
