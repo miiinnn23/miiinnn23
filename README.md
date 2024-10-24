@@ -2,7 +2,7 @@
   <h3>✨ I'm ... </h3>
   ✔️ A hArDwoRkIng dEveLopER<br>
   ✔️ Master Course in DataLab. <br>
-  ✔️ Interested in ML, clustering <br>
+  ✔️ Interested in ML, clustering, data science <br>
   
 <!--
 **miiinnn23/miiinnn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
