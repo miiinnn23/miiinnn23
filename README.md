@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <p>
   <h3>💕 CONTACT</h3>
   <a href="mailto:seungmin@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a target="_blank" href="https://www.linkedin.com/in/lee-min-898908199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/seungmin-lee-898908199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   </p>
 
 <p>
